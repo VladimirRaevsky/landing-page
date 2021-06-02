@@ -29,10 +29,11 @@
 
 .first__title {
     font-size: 80px;
-    max-width: 40%;
+    max-width: 32%;
     line-height: 84px;
     font-weight: 700;
     margin-bottom: 41px;
+    letter-spacing: 3.2px;
 }
 
 .first__descr {
@@ -66,7 +67,7 @@
 
 .search-form {
     flex-shrink: 0;
-    width: 65%;
+    width: 68%;
     position: relative;
     overflow: hidden;
     border-top-left-radius: 4px;
@@ -85,7 +86,7 @@
 
 .search-form__btn {
     position: absolute;
-    right: 51px;
+    right: 60px;
     top: 50%;
     transform: translateY(-50%);
     background-image: url('/img/search.svg');

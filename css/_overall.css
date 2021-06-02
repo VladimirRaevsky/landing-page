@@ -18,3 +18,10 @@
 	cursor: pointer;
 	padding: 0;
 }
+
+.section-title {
+	font-weight: 700;
+	font-size: 64px;
+	line-height: 80px;
+	color: var(--dark-color);
+}
